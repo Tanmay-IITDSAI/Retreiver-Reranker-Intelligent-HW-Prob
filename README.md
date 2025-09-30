@@ -1,6 +1,6 @@
 # Rewriter‑Retriever‑ReRanker — Homework Problem
 
-**DSL504 – Natural Language Processing (NLP)**
+**Natural Language Processing (NLP)**
 
 > A compact system for generating, retrieving, rewriting and re-ranking homework questions using modern NLP models. Built as part of the Indian Institute of Technology, Bhilai project (Nov 23, 2024).
 
