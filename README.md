@@ -18,7 +18,6 @@
 * [Experiments & evaluation](#experiments--evaluation)
 * [Results & notes](#results--notes)
 * [Contributing](#contributing)
-* [License & contact](#license--contact)
 
 ---
 
